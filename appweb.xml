@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appweb>
+    <section_database>
+        <hostname>e984fe86af3bb5847af79758089677322fb03e13839f1ec2f537443c2225937a4d3adf831694a4b5403c43d49b7bff31db19df12c4afbf8bded10d2cb0482c0a2ApI2k6KJxXgbc0/FvP5NgmQbiLykdQ+k8lEfDgXbS0=</hostname>
+        <username>8f0d72357b7b3fcec425709d5b490d44f143fcdf2ce80f580ca4219c54ba65047e945799a9761742a96f48b94f19f6ceb5cd1cb6be99f55fdccf60104de3767dJKObm1YH+TUzsBEFT5uGSFmEjHuU6gLAoksT9hDI4GUbb/QM/pMjxMYL0TSagvAs</username>
+        <password>7c0005f94f1854773e7622a35d4a0db345b7fac902ffa9ffedd5d303ab2fc51eb1f3039ebfb1d336b872a4f9603a3be26dc246971cd42fa9820c9b6c8d83ee6eBGMpEPBfVqgMzjjAh3IdHGQLbC2jYOo8+WMj1FYYZFI=</password>
+        <database>c3e3e43c424b7e02adb2b7dd2316b3e66a581dac3cfe403d99f13185acc9446f60491d60b9f43f139c81f774939a1c6cbbb2ef7351ee833fe02dbc0164bb36a9eD6vteqE+RlbZJ7iToDNOYPKs2C3rK3bjm/615OpNAf9ffK9oHTFJHwcd4JF9TeN</database>
+    </section_database>
+    <section_confg>
+        <base_url_qa>http://127.0.0.1/aheadagro/</base_url_qa>
+    </section_confg>
+    <section_email>
+        <host>fd979aa91d13534f01aff09dd818d12499d03716ddbcd4098f6af68a6c09e4d93ef51a0208dd440e0a551ba24cc8d9d33247fe53320cbaae52fd76c1509118b3yv389/Nr7HaQcuWKiRPKPhjeDlDM4dkXPxR9ijxbDw3P69Aq8Is0vIXm297katg6</host>
+        <smtp_secure>90bba5c44b2ff2c8f2e7716bf0c706d2e71fa92625f240d374a22ed669c6d0eeb4138245d03fc16846f0b4729b1d998555feb44f75ae88a6d50f9baeb5c408083jXR5b5EXi8pHKfkrrTjelZ7rmhrRTEnoQXVnOBeuF0=</smtp_secure>
+        <port>aed1cced88eea939210490e88da17b14a8524600b0f6df2c866992439e1f576806e5743e575a0d3777ec98d4b829b50724e17cb686ad8371979941d86e60a181mN+2tq9XKZIgOp34hgvAzjZZC9Ax89zbelhi9YU6ACo=</port>
+        <smtp_auto_tls>b745a9a8fe2f81cec17cd3eab80fdc59fe79fb3823868e808c7e8c6d3b29f7d5ebd7e5b5d4d23cb6c3108e95b9626678349d1b2e8f798c966ad98edc3b500a2eDKsTx2BNGzSvODRYDMxskEF+/FiZRSN5LygRko4nTNk=</smtp_auto_tls>
+        <smtp_auth>bba16f7545cdfe4b18ab3dc476a13f8d5ce6c902c7364a6e81e318a0013f6cc6505cbcedf6f5fc73516dd14ae7836e301404ab003d64c0cc39a3abd531c5e261yZum7piveYkwrwQ96wFE/SX2o4o1T9eQCsrbGm3hCV0=</smtp_auth>
+        <charset>bfb1c4ee43126b7a5a0fcde4aeeda46fced96800092884f80ab7cfa13f0659ad7be5194f4d0fd284e324e371d03226fac094354f5259cedcacf72423013387dcKUwWvIDlDR0f0ZmAFW7wC7VAUiA0s7UfAHQ3d4tiTns=</charset>
+        <username>2f80d8fb9f6ec370fdbfb9342e28acb2b6af230a5194745ff03b3088a7cfd9eac0df582b4821e80c1476664dfd76c61baad89a6d2f6493a6c4a6071160f5c8b877gg3W9Bcw+CxbmvE9cUG4qmGZN1q58QT1Qa18uH6LyymUJQDKVGdteaJbaN9f0L</username>
+        <password>92d083c7e7cf0f0f44842a64dd90ab7f2f167bd069b2d6e59f5bf2e8d0288d8941309b76982eff1021f53f78e0108da3b3932f2ffaf141f1a086ebfb7906a261loIVUEeogS3cl+o+X1HchUbdLDq/jOgu4lgjF+8+zm8=</password>
+        <smtp_debug>735b0fc32109b09b9f77f816b51a267650cf1753a1e81a8832551f6d5071cb1a0c1e26ae625cb9ab8dae83b4ce647f551c0ffd42fbb5f282a5e866ee4b8c9158QHYWcW0FHGaosCZhSuU5bAIqzJ9hLDwphFsaWyYKWhQ=</smtp_debug>
+        <from>02e214f21caa35853f2215a619df7801155c4cfcaa0d3786fe2746619bcf8fb7b1698c31d37c122bb531736d00de273c84fc8e92df897c5058b2116880eaeebemkIYy4wE6ubBDtrjHpCQbPSCi3fQE5DFlMdXSU3t0+ynxDWVCyFY3yhfVBBDJbJ/</from>
+        <name>6e3117a3642fc38ae10b2c85c1b34e2485285938e69d9dfd9e0518bfe3e53da781ee09121c42bf3dc1f3754d82186f3c34c86fd573f56003e56f848c65cc761efW9XR5nJXrEJuFMCjt0ldFzkEzKSpVw08XllKIRB5BU=</name>
+    </section_email>
+</appweb>

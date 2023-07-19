@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-28 19:45:29 --> Query error: Duplicate entry '3-330' for key 'uc_farm_code' - Invalid query: INSERT INTO `gu_farms` (`farm_id`, `license_id`, `code`, `name`, `unit_id`) VALUES ('', '3', '330', 'Formosa', '2')
+ERROR - 2022-12-28 19:45:29 --> Houve uma falha ao gravar o registro.</br>
+ERROR - 2022-12-28 19:48:20 --> Query error: Duplicate entry '3-76-6-4-15' for key 'uc_key_gu_plots' - Invalid query: INSERT INTO `gu_plots` (`plot_id`, `license_id`, `season_id`, `farm_id`, `block_code`, `plot_code`, `variety_id`, `cutting_id`, `soil_id`, `environment_id`, `spacing_id`, `distance`, `total_area`, `production_area`, `tons`, `cut_tons`, `dt_planting`, `dt_cutting`) VALUES ('', '3', '6', '76', '4', '15', '66', '12', '', '7', '3', '0', '0', '0', '0', '0', '2020-05-28', '2022-07-01')
+ERROR - 2022-12-28 19:48:20 --> Houve uma falha ao gravar o registro.</br>
+ERROR - 2022-12-28 19:48:27 --> Query error: Duplicate entry '3-76-6-4-15' for key 'uc_key_gu_plots' - Invalid query: INSERT INTO `gu_plots` (`plot_id`, `license_id`, `season_id`, `farm_id`, `block_code`, `plot_code`, `variety_id`, `cutting_id`, `soil_id`, `environment_id`, `spacing_id`, `distance`, `total_area`, `production_area`, `tons`, `cut_tons`, `dt_planting`, `dt_cutting`) VALUES ('', '3', '6', '76', '4', '15', '66', '12', '3', '7', '3', '0', '0', '0', '0', '0', '2020-05-28', '2022-07-01')
+ERROR - 2022-12-28 19:48:27 --> Houve uma falha ao gravar o registro.</br>
+ERROR - 2022-12-28 19:50:25 --> Query error: Duplicate entry '3-76-6-4-15' for key 'uc_key_gu_plots' - Invalid query: INSERT INTO `gu_plots` (`plot_id`, `license_id`, `season_id`, `farm_id`, `block_code`, `plot_code`, `variety_id`, `cutting_id`, `soil_id`, `environment_id`, `spacing_id`, `distance`, `total_area`, `production_area`, `tons`, `cut_tons`, `dt_planting`, `dt_cutting`) VALUES ('', '3', '6', '76', '4', '15', '66', '12', '3', '7', '3', '0', '0', '0', '0', '0', '2020-05-28', '2022-07-01')
+ERROR - 2022-12-28 19:50:25 --> Houve uma falha ao gravar o registro.</br>
+ERROR - 2022-12-28 19:51:59 --> Query error: Duplicate entry '3-76-6-4-15' for key 'uc_key_gu_plots' - Invalid query: UPDATE `gu_plots` SET `plot_id` = '381', `license_id` = '3', `season_id` = '6', `farm_id` = '76', `block_code` = '4', `plot_code` = '15', `variety_id` = '66', `cutting_id` = '12', `soil_id` = '2', `environment_id` = '7', `spacing_id` = '', `distance` = '0', `total_area` = '0', `production_area` = '0', `tons` = '0', `cut_tons` = '0', `dt_planting` = '2020-05-28', `dt_cutting` = '2022-07-01'
+WHERE `plot_id` = '381'
+ERROR - 2022-12-28 19:51:59 --> Houve uma falha ao gravar o registro.</br>
+ERROR - 2022-12-28 19:52:03 --> Query error: Duplicate entry '3-76-6-4-15' for key 'uc_key_gu_plots' - Invalid query: UPDATE `gu_plots` SET `plot_id` = '381', `license_id` = '3', `season_id` = '6', `farm_id` = '76', `block_code` = '4', `plot_code` = '15', `variety_id` = '66', `cutting_id` = '12', `soil_id` = '2', `environment_id` = '7', `spacing_id` = '', `distance` = '0', `total_area` = '0', `production_area` = '0', `tons` = '0', `cut_tons` = '0', `dt_planting` = '2020-05-28', `dt_cutting` = '2022-07-01'
+WHERE `plot_id` = '381'
+ERROR - 2022-12-28 19:52:03 --> Houve uma falha ao gravar o registro.</br>
