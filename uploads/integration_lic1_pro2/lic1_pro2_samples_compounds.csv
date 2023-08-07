@@ -1,0 +1,22 @@
+Licenca;Protocolo;Fazenda;Nome;Talhao;Tratamento;Bloco;Croqui;Composto;Nome;Sigla;Data (dd/mm/yyyy);Ponto;Valor
+1;2;301;AGUA BRANCA;1;Priori Xtra;B1;13;2;Óxido de Potássio;K2O;05/04/2022;1;10
+1;2;301;AGUA BRANCA;1;Priori Xtra;B1;13;5;Zinco;Zn;05/04/2022;1;5
+1;2;301;AGUA BRANCA;1;Kymon Plus;B1;14;11;Densidade (g/cm³);Dens;05/04/2022;1;4
+1;2;301;AGUA BRANCA;1;Marshall;B1;15;1;Nitrogênio;N;05/04/2022;1;8
+1;2;301;AGUA BRANCA;1;Marshall;B1;15;9;Molibdênio;Mo;05/04/2022;1;2
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B1;16;8;Manganês;Mn;05/04/2022;1;1
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B1;16;10;Aminoácidos;Aminoácido;05/04/2022;1;6
+1;2;301;AGUA BRANCA;1;Marshall;B2;17;1;Nitrogênio;N;05/04/2022;1;9
+1;2;301;AGUA BRANCA;1;Marshall;B2;17;9;Molibdênio;Mo;05/04/2022;1;10
+1;2;301;AGUA BRANCA;1;Priori Xtra;B2;18;2;Óxido de Potássio;K2O;05/04/2022;1;10
+1;2;301;AGUA BRANCA;1;Priori Xtra;B2;18;5;Zinco;Zn;05/04/2022;1;20
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B2;20;8;Manganês;Mn;05/04/2022;1;10
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B2;20;10;Aminoácidos;Aminoácido;05/04/2022;1;8
+1;2;301;AGUA BRANCA;1;Kymon Plus;B2;19;11;Densidade (g/cm³);Dens;05/04/2022;1;7
+1;2;301;AGUA BRANCA;1;Kymon Plus;B3;23;11;Densidade (g/cm³);Dens;05/04/2022;1;3
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B3;21;8;Manganês;Mn;05/04/2022;1;6
+1;2;301;AGUA BRANCA;1;Disperse Ultra;B3;21;10;Aminoácidos;Aminoácido;05/04/2022;1;5
+1;2;301;AGUA BRANCA;1;Priori Xtra;B3;22;2;Óxido de Potássio;K2O;05/04/2022;1;2
+1;2;301;AGUA BRANCA;1;Priori Xtra;B3;22;5;Zinco;Zn;05/04/2022;1;4
+1;2;301;AGUA BRANCA;1;Marshall;B3;24;1;Nitrogênio;N;05/04/2022;1;8
+1;2;301;AGUA BRANCA;1;Marshall;B3;24;9;Molibdênio;Mo;05/04/2022;1;9
