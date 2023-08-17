@@ -699,6 +699,11 @@ if(isset($flash_message)){echo $flash_message;}
                             <a class="dropdown-item">
                               <button style="width: 100%;" class="btn btn-primary"  onclick="validateForm(event)">Pesquisar</button>
                             </a>
+                          <?php if(isset($search)){?>
+                            <a href="<?php echo RT_PROTOCOLS;?>" class="dropdown-item">
+                              <span style="width: 100%;" class="btn btn-danger">Limpar Filtro</span>
+                            </a>
+                          <?php }?>
                         </div>
                       </form>
                     </span>

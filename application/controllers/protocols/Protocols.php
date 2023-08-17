@@ -743,7 +743,8 @@ class Protocols extends CI_Controller {
     }else{
         $this->data['search_bar'] = FALSE;        
     }
-
+    
+    $this->data['search'] = TRUE;
     $this->load->view('patterns/v_header');
     $this->load->view('patterns/v_navigation', $this->data);
     $this->load->view('protocols/protocols/vw_protocols');
